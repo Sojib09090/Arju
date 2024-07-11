@@ -9,5 +9,8 @@ void main() {
   }
 
   print("Factorial of $number is $factorial");
-  // 
+  //factorial *= i;
+  //print("Factorial of $number is $factorial");
+  //ai duita line bujaya diyen sir
+
 }
