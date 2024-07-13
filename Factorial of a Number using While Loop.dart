@@ -6,11 +6,14 @@ void main() {
   while (i <= number) {
     factorial *= i;
     i++;
+    
   }
 
-  print("Factorial of $number is $factorial");
-  //factorial *= i;
-  //print("Factorial of $number is $factorial");
-  //ai duita line bujaya diyen sir
+  print("factorial of $number{is} ${factorial}");
+
+  // akhane numbr dewa ache 5 to 5 er kom 0 porjotno mane ৫ × ৪ × ৩ × ২ × ১ = ১২০ kore abr int factorial e 1 ache tai man poriborton hoy nay akhne jodi tahole tahole 2 gun kora lagto
+
+
+  // print("factorial of {$number is} {$factorial}");
 
 }

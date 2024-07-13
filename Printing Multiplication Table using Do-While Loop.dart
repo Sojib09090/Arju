@@ -1,10 +1,7 @@
-void main() {
-  int number = 5;
-  int i = 1;
 
-  do {
-    print("$number x $i = ${number * i}");
-    i++;
-  } while (i <= 10);
-  // pblm
+void main (){
+  int numbear = 8;
+  
+  for (int i=1; i<=10; i++) 
+  print("$numbear x $i = ${numbear*i}");
 }
