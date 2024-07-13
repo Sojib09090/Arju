@@ -8,6 +8,6 @@ void main() {
 
   print("Sum of first $n natural numbers is $sum");
 
-  // ata aktu bujaya dile valo hoy vaiya aktu aktu bujte parchi ata 
+  
 }
 

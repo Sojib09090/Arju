@@ -9,5 +9,5 @@ void main() {
   }
 
   print("Sum of first $n natural numbers is $sum");
-  //  sum += i;... print("Sum of first $n natural numbers is $sum");-aktu pblm
+  //  sum += i;... print("Sum of first $n natural numbers is $sum");-aktu pblm..
 }
