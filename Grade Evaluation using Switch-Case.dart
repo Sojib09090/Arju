@@ -1,5 +1,5 @@
 void main() {
-  String grade = 's';
+  String grade = 'B';
 
   switch (grade) {
     case 'A':
@@ -18,7 +18,7 @@ void main() {
       print("Fail");
       break;
     default:
-      print("Invalid grade");
+      print("Invailed");
   }
   // akhne jodi grade er man A dey tahole Excellent print hbe.abar akhne jodi grade B dey thaole Good print hbe.akhne jodi grade c dey tahole Avarage print hbe.Grade D dile Poor print hbe.Grade F hole Fail print hbe.abar jodi Grade onno mane akhane kunu case ney onnano grade dile seta Invalid grade grade print korbe..karon akhne grade er man onujayi case cheack korbe
 }

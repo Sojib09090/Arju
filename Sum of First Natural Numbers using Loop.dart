@@ -8,6 +8,5 @@ void main() {
 
   print("Sum of first $n natural numbers is $sum");
 
-  
 }
 

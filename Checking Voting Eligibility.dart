@@ -10,6 +10,4 @@ void main (){
 
   // akhne boyos jodi 15 er besi ba boro hoy tahole if print korbe.ar jodi 15 er chuto ba nice hoy tahole else print korbe
   
-  
-
 }
