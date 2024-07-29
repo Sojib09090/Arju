@@ -8,3 +8,10 @@ void main (){
   }
   number(4);
 }
+
+
+//  1. return type
+// 2.name 
+// 3parametar
+// 4.body
+// 5.call the function
